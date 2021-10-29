@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\full website page"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "build drop down menu"
+  }
+}
